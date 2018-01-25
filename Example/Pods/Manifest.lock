@@ -1,0 +1,16 @@
+PODS:
+  - ModuleTryPartOne (0.1.0)
+
+DEPENDENCIES:
+  - ModuleTryPartOne (from `../`)
+
+EXTERNAL SOURCES:
+  ModuleTryPartOne:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ModuleTryPartOne: 92ce3b1cdfca556158ef2549341ee5fa1060d37c
+
+PODFILE CHECKSUM: 05a8243bcacd911a097ce6fc7f669b326e74b5e0
+
+COCOAPODS: 1.3.1
