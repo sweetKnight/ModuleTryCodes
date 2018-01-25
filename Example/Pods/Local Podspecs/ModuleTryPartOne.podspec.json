@@ -1,19 +1,16 @@
 {
   "name": "ModuleTryPartOne",
-  "version": "0.1.0",
+  "version": "2",
   "summary": "A short description of ModuleTryPartOne.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/sweetKnight/ModuleTryPartOne",
-  "license": {
-    "type": "MIT",
-    "file": "LICENSE"
-  },
+  "description": "Module Part A short description of ModuleTryPartOne.",
+  "homepage": "https://github.com/sweetKnight/ModuleTryCodes",
+  "license": "MIT",
   "authors": {
     "sweetKnight": "476105181@qq.com"
   },
   "source": {
-    "git": "https://github.com/sweetKnight/ModuleTryPartOne.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/sweetKnight/ModuleTryCodes.git",
+    "tag": "2"
   },
   "platforms": {
     "ios": "8.0"

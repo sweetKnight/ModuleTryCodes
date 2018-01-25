@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "SweetConfig.h"
+#import "UIView+Common.h"
 
 FOUNDATION_EXPORT double ModuleTryPartOneVersionNumber;
 FOUNDATION_EXPORT const unsigned char ModuleTryPartOneVersionString[];

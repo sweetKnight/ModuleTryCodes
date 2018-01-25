@@ -1,5 +1,5 @@
 PODS:
-  - ModuleTryPartOne (0.1.0)
+  - ModuleTryPartOne (2)
 
 DEPENDENCIES:
   - ModuleTryPartOne (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ModuleTryPartOne: 92ce3b1cdfca556158ef2549341ee5fa1060d37c
+  ModuleTryPartOne: e1b78cfc94f10f0bebaf4f862a1e863e27b23d69
 
 PODFILE CHECKSUM: 05a8243bcacd911a097ce6fc7f669b326e74b5e0
 
